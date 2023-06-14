@@ -12,7 +12,7 @@ public class TheaterKiosk
 
         if (age >= 21)
         {
-            System.out.println("You are over 21. Please drink responsibly.");
+            System.out.println("You are over 21. You get a wristband. Please drink responsibly.");
         }
     }
 }
